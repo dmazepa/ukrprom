@@ -1,0 +1,23 @@
+# Ignored Folders #
+################
+/.idea/*
+/media/*
+/var/*
+
+# Ignored Files #
+################
+
+/app/etc/local.xml
+/robots.txt
+/.htaccess
+/.htaccess.sample
+/.revision
+/mhm.txt
+
+*.tgz
+*.sql.gz
+*.sql
+*.tar
+*.zip
+*.tar.gz
+*.gz
